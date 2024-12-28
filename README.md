@@ -1,2 +1,2 @@
 # SpringCloudLearning
-A series  of demos for learing SpringCloud
+A series  of demos for learning SpringCloud
