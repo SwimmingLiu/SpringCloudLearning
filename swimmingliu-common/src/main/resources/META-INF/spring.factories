@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.swimmingliu.common.config.MyBatisConfig,\
+  com.swimmingliu.common.config.JsonConfig
