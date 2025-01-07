@@ -16,8 +16,8 @@ import java.time.LocalDateTime;
  * 用户表
  * </p>
  *
- * @author 虎哥
- * @since 2023-05-05
+ * @author SwimmingLiu
+ * @author 2025-01-01
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

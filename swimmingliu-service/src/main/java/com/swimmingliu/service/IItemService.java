@@ -13,8 +13,8 @@ import java.util.List;
  * 商品表 服务类
  * </p>
  *
- * @author 虎哥
- * @since 2023-05-05
+ * @author SwimmingLiu
+ * @author 2025-01-01
  */
 public interface IItemService extends IService<Item> {
 

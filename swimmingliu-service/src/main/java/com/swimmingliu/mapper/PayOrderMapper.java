@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 支付订单 Mapper 接口
  * </p>
  *
- * @author 虎哥
+ * @author SwimmingLiu
  * @since 2023-05-16
  */
 public interface PayOrderMapper extends BaseMapper<PayOrder> {
