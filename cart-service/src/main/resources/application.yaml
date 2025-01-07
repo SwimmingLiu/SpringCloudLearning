@@ -41,7 +41,7 @@ knife4j:
         group-name: default
         api-rule: package
         api-rule-resources:
-          - com.swimmingliu.cartservice.controller
+          - com.swimmingliu.item.controller
 feign:
   okhttp:
     enabled: true # 开启OKHttp功能
